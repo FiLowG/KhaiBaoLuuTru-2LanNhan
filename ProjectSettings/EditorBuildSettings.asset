@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SplashLuuY.unity
+    guid: a9bf149febb155f479853f2ab8e9b261
+  - enabled: 1
+    path: Assets/Scenes/QRScan.unity
+    guid: 277921fd8dc1c3a4f86205639abc6a81
+  - enabled: 1
+    path: Assets/Scenes/Main.unity
+    guid: c78fc2a4c5a6349b7a60508dc3849924
+  m_configObjects: {}
